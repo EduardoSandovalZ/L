@@ -1,0 +1,4 @@
+#instalar drivers nvivia
+ubuntu-drivers devices
+
+sudo apt install nvidia-driver-
